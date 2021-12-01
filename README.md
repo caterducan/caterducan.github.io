@@ -4,4 +4,4 @@
 yes indeed
 
 so I have:
-                [GBA emulator](https://www.caterducan.github.io/gba)
+                [GBA emulator](https://caterducan.github.io/gba)
