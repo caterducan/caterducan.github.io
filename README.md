@@ -1,5 +1,3 @@
-#Ctaerducan's Homepage
-
 ## Helloooo! Most of this stuff is not mine, but ye
 
 ### Well since your here, why dont you have a look around
