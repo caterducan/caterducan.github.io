@@ -1,4 +1,4 @@
-## Helloooo! Most of this stuff is not mine, but ye
+## the dev of caterducan
 
 ### Well since your here, why dont you have a look around
 yes indeed
