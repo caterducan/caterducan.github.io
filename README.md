@@ -6,3 +6,4 @@ yes indeed
 so I have:
                 [GBA emulator](https://caterducan.github.io/gba)
                 [NES emulator](https://caterducan.github.io/jsnes)
+                [Wine .exe runner](https://caterducan.gothub.io/boxedwine)
