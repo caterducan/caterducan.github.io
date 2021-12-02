@@ -5,3 +5,4 @@ yes indeed
 
 so I have:
                 [GBA emulator](https://caterducan.github.io/gba)
+                [NES emulator](https://caterducan.github.io/jsnes)
