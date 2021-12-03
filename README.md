@@ -5,6 +5,9 @@ yes indeed
 
 so I have:
                 [GBA emulator](https://caterducan.github.io/gba)
+                [Wine .exe runner](https://caterducan.github.io/boxedwine) (WIP)
                 and
-                [Wine .exe runner](https://caterducan.github.io/boxedwine)
+								[NES/SNES/SEGA/Gameboy emulator (needs the roms and onedrive)](https://www.nesbox.com)
+								[for roms WARNING DOWNLOADING ROMS ONLINE IS ILLEGAL](https://www.vimm.net)
+								
                
